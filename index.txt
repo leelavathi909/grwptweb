@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>THIS IS A INDEX PAGE</title>
+<body>
+<h1>GRWPT SHIVAMOGGA</h1>
+
+</body>
+
+</head>
+</html>
